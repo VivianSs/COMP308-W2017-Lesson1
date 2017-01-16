@@ -1,11 +1,22 @@
 {
-  "name": "comp308-w2017",
+  "name": "comp308-w2017-lesson1",
   "version": "1.0.0",
   "description": "Demo App for NodeJS",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "Sisi Li",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VivianSs/COMP308-W2017-Lesson1.git"
+  },
+  "keywords": [
+    "NodeJs"
+  ],
+  "bugs": {
+    "url": "https://github.com/VivianSs/COMP308-W2017-Lesson1/issues"
+  },
+  "homepage": "https://github.com/VivianSs/COMP308-W2017-Lesson1#readme"
 }
